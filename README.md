@@ -7,7 +7,7 @@
 - 玩家要在箱子附近，以电脑版玩家为例，不会查找玩家视线之外的箱子；
 
 
-[插件下载](https://gitee.com/hufang360/TShockShowMe/attach_files/1059411/download/ShowMe.dll)
+[插件下载](https://github.com/hufang360/TShockShowMe/releases/download/v1.0/ShowMe.dll)
 
 <br>
 
